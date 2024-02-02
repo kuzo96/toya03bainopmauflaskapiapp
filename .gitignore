@@ -1,0 +1,8 @@
+*.pyc
+
+# run on replit.com ie run w/ peotry
+.pythonlibs/
+
+# run on nn laptop ie run w/ pipenv
+Pipfile.lock
+.venv/
